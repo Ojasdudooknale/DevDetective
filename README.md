@@ -11,7 +11,7 @@ DevDetective is a web application that allows users to search for GitHub profile
 
 ## Demo
 
-[Live Demo](https://your-demo-url.com)
+Check out the live demo [here](https://od-dev-detective.netlify.app/).
 
 
 ## API
